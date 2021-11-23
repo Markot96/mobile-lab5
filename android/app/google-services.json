@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34367690057",
+    "project_id": "groovy-axis-326117",
+    "storage_bucket": "groovy-axis-326117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34367690057:android:ad363a280bbde76f4df698",
+        "android_client_info": {
+          "package_name": "com.example.coupon_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34367690057-us9pcf803qt7jmam17bc7r07ke3rug1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVwcuMP88VAMIJFsfaExg2hA1SF6ZA8mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34367690057-us9pcf803qt7jmam17bc7r07ke3rug1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
